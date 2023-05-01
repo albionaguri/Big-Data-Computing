@@ -57,7 +57,7 @@
 ## Summary Results
 <img id="#Summary-Results" width="345" alt="image" src="https://user-images.githubusercontent.com/51866742/235447486-f7de206f-ba30-453e-bb59-58264598fc1d.png">
 
-## Conclusion and Future Scope
+## Conclusions and Future Scope
 
 All models performed well as seen from the results in the graphics. This was due to the fact that the models were trained in the <i> whole dataset </i> including training and testing partitions. After obtaining these almost perfect results, what can be done in the future would be:
 1. First step is to split the dataset into training and testing.
