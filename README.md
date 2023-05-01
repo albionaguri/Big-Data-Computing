@@ -38,7 +38,7 @@
 3. Multilayer Perceptron Classifier
 4. Transformers (Hugging Face)
 
-## Experimenal Results
+## Experimental Results
 <div id = "Experimental-Results" >
 - Results are obtained from the Logistic Regression model in training and testing set.
 
