@@ -1,7 +1,7 @@
 # Fake-News-Classifier using PySpark
 
 ## Outline
-<ul dir = auto>
+<ul dir = "auto">
 <li> <a href = "#Introduction"> Introduction </a> </li>
 <li> <a href = "#Dataset"> Dataset </a> </li>
 <li> <a href = "#Preprocessing-and-Feature-Engineering"> Preprocessing and Feature Engineering </a> </li>
