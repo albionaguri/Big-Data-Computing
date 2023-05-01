@@ -68,7 +68,7 @@ All models performed well as seen from the results in the graphics. This was due
 I built a small Application that can be used to get informed if the news are real or fake. The used model in our specific case is Transformers. 
 Then, I saved all the models, so we can adapt the Application for using each of them. 
 
-### Technologies used: 
+### Technologies Used: 
 
 - Flask
 - React.js
