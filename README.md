@@ -4,11 +4,16 @@
 
 * <a href = "#Introduction"> Introduction </a>
 * <a href = "#Dataset"> Dataset </a>
-* <a href = "#Preprocessing and Feature Engineering"> Preprocessing and Feature Engineering </a>
+* <a href = "#PreprocessingandFeatureEngineering"> Preprocessing and Feature Engineering </a>
 * <a href = "#Models">  Models </a>
-* <a href = "#Experimental results">  Experimental results </a> 
-* <a href = "#Conclusion"> Conclusion </a>
-* <a href ="#Application demo"> Application demo </a>
+* <a href = "#Experimentalresults">  Experimental results </a> 
+* <a href = "#SummaryResults">  Results Summary </a>  
+* <a href = "#Conclusion"> Conclusions and Future Scope </a>
+* <a href ="#Application"> Application </a> 
+* <a href ="#Technologies"> Technologies Used </a> 
+* <a href ="#Demo"> Demo </a> 
+
+
 
 ## Introduction
 
