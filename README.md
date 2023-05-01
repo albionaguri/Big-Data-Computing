@@ -39,7 +39,7 @@
 4. Transformers (Hugging Face)
 
 ## Experimenal Results
-
+<div id = "Experimental-Results" >
 - Results are obtained from the Logistic Regression model in training and testing set.
 
 <img width="429" alt="image" src="https://user-images.githubusercontent.com/51866742/235447157-8b17dc91-d3aa-413b-859c-aacfaa0aafd2.png">
@@ -52,6 +52,8 @@
 
 <img width="428" alt="image" src="https://user-images.githubusercontent.com/51866742/235446966-254a0b6c-e6f7-428a-82a1-f24ff705b90a.png">
 
+ </div>
+ 
 ## Results Summary 
 <img width="345" alt="image" src="https://user-images.githubusercontent.com/51866742/235447486-f7de206f-ba30-453e-bb59-58264598fc1d.png">
 
