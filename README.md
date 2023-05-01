@@ -8,7 +8,7 @@
 <li> <a href = "#Models"> Models </a></li>
 <li> <a href = "#Experimental-Results"> Experimental Results </a> </li>
 <li> <a href = "#Summary-Results">Summary Results </a>  </li>
-<li> <a href = "#Conclusions-and-Future-Scope"> Conclusions and future scope </a></li>
+<li> <a href = "#Conclusions-and-Future-Scope"> Conclusions and Future Scope </a></li>
 <li> <a href = "#Application"> Application </a> </li>
 <li> <a href = "#Technologies-Used"> Technologies Used </a> </li>
 <li> <a href = "#Demo"> Demo </a> </li>
@@ -54,8 +54,8 @@
 
  </div>
  
-## Results Summary 
-<img width="345" alt="image" src="https://user-images.githubusercontent.com/51866742/235447486-f7de206f-ba30-453e-bb59-58264598fc1d.png">
+## Summary Results
+<img id="#Summary-Results" width="345" alt="image" src="https://user-images.githubusercontent.com/51866742/235447486-f7de206f-ba30-453e-bb59-58264598fc1d.png">
 
 ## Conclusion and Future Scope
 
