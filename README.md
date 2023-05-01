@@ -4,9 +4,9 @@
 <ul dir = "auto">
 <li> <a href = "#Introduction"> Introduction </a> </li>
 <li> <a href = "#Dataset"> Dataset </a> </li>
-<li> <a href = "#Preprocessing-and-Feature-Engineering"> Preprocessing and feature engineering </a> </li>
+<li> <a href = "#Preprocessing-And-Feature-Engineering"> Preprocessing And Feature Engineering </a> </li>
 <li> <a href = "#Models"> Models </a></li>
-<li> <a href = "#Experimental-Used"> Experimental Used </a> </li>
+<li> <a href = "#Experimental-Results"> Experimental Results </a> </li>
 <li> <a href = "#Summary-Results">  Summary Results </a>  </li>
 <li> <a href = "#Conclusions-and-Future-Scope"> Conclusions and future scope </a></li>
 <li> <a href = "#Application"> Application </a> </li>
