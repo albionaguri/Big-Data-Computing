@@ -62,7 +62,7 @@
 All models performed well as seen from the results in the graphics. This was due to the fact that the models were trained in the <i> whole dataset </i> including training and testing partitions. After obtaining these almost perfect results, what can be done in the future would be:
 1. First step is to split the dataset into training and testing.
 2. Train the model *only* with the training set, apart from the test set. In this way the model that is being trained cannot see data that belongs to the test set. 
-3. After training the model, then I made predictions using the test set.
+3. After training the model, then make predictions using the test set.
 4. Since, test set was unknown to the model when training, then I assume I would have obtained slightly differences in comparison with the ones I got.
 
 ## Application 
